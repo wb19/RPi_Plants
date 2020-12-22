@@ -1,4 +1,4 @@
-# RPi_WateringSystem
+# RPi_Plants
 Automatic plant watering system using Raspberry Pi &amp; Python
 
 Uses crontab which triggers the watering a specified time each day. This is a base prototype design for plants that require regular watering.
