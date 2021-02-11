@@ -8,6 +8,7 @@ Prototype 2 (intermediate): Prototype 2 builds on Prototype 1, and includes thes
 2. Remote access via a web interface to allow user to manually activate the pump or cool the enclosure. The webpage also shows the timestamp of the last watering.
 
 Hardware Used:
+
 1.	Raspberry Pi 3B 
 2.	16GB micro SD card with NOOBs installed
 3.	5V micro USB charger for the Pi
@@ -18,5 +19,6 @@ Hardware Used:
 8.	Piping tube
 
 Additional hardware used for Prototype 2:
+
 9. PC Cooling fan
 10. DHT11 temperature and humidity sensor
